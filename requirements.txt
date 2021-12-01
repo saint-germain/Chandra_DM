@@ -1,5 +1,0 @@
- astropy
- pyvo
- pyyaml
- matplotlib
- scipy
